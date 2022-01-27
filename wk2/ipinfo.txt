@@ -1,0 +1,39 @@
+utoronto.ca
+IP Address	toronto.ca./128.100.166.120
+Location:
+Country Code	CA
+Country Name	CANADA
+Region		ONTARIO
+City		TORONTO
+
+uwo.ca
+IP Address	wo.ca./129.100.0.79
+Location:
+Country Code	CA
+Country Name	CANADA
+Region		ONTARIO
+City		LONDON
+
+yorku.ca
+IP Address	orku.ca./130.63.236.137
+Location:
+Country Code	CA
+Country Name	CANADA
+Region		ONTARIO
+City		NORTH YORK
+
+ryerson.ca
+IP Address	yerson.ca./141.117.126.20
+Location:
+Country Code	CA
+Country Name	CANADA
+Region		ONTARIO
+City		TORONTO
+
+uoguelph.ca
+IP Address	oguelph.ca./131.104.93.93
+Location:
+Country Code	CA
+Country Name	CANADA
+Region		ONTARIO
+City		GUELPH

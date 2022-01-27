@@ -1,0 +1,327 @@
+georgebrown.ca
+Registrar Info
+Name		Webnames.ca Inc.
+Whois Server	whois.ca.fury.ca
+Referral URL	www.webnames.ca
+Status		clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+Important Dates
+Expires On	2022-07-04
+Registered On	2002-07-04
+Updated On	2022-01-22
+
+Name Servers
+ns1.d-zone.ca		162.219.54.2
+ns1.georgebrown.ca	198.96.86.35
+ns2.d-zone.ca		162.219.55.2
+ns2.georgebrown.ca	198.96.87.135
+
+Similar Domains
+georg--breitwieser.com | georg-abele.ch | georg-abele.de | georg-abrell.de | georg-academy.com | georg-ackermann-schule.de | georg-ager.at | georg-agricola-gesellschaft.de | georg-agricola.com | georg-ahrens.de | georg-aigner.at | georg-aigner.com | georg-alber.de | georg-albrecht-eckle.com | georg-alexander-hansen.de | georg-alexander.com | georg-alexander.de | georg-alexi.us.com | georg-amshoff.de | georg-andalusier.de |
+
+Registrar Data
+Registrant Contact Information:
+Name			George Brown College (Toronto)
+Organization
+Address			P.O. Box 1015 Station B
+City			Toronto
+State / Province	ON
+Postal Code		M5T2T9
+Country			CA
+Phone			+1.4164155000
+Fax			+1.4164154667
+Email			ariem@georgebrown.ca
+
+Administrative Contact Information:
+Name			George Brown College (Toronto)
+Organization
+Address			P.O. Box 1015 Station B
+City			Toronto
+State / Province	ON
+Postal Code		M5T2T9
+Country			CA
+Phone			+1.4164155000
+Fax			+1.4164154667
+Email			ariem@georgebrown.ca
+
+Technical Contact Information:
+Name			George Brown College (Toronto)
+Organization
+Address			P.O. Box 1015 Station B
+City			Toronto
+State / Province	ON
+Postal Code		M5T2T9
+Country			CA
+Phone			+1.4164155000
+Fax			+1.4164154667
+Email			ariem@georgebrown.ca
+
+Billing Contact Information:
+Name			George Brown College (Toronto)
+Organization
+Address			P.O. Box 1015 Station B
+City			Toronto
+State / Province	ON
+Postal Code		M5T2T9
+Country			CA
+Phone			+1.4164155000
+Fax			+1.4164154667
+Email			ariem@georgebrown.ca
+
+senecacollege.ca
+Registrar Info
+Name		easyDNS Technologies Inc.
+Whois Server	whois.ca.fury.ca
+Referral URL	www.easydns.ca
+Status		clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+Important Dates
+Expires On	2022-12-01
+Registered On	2000-11-08
+Updated On	2017-11-01
+
+Name Servers
+ns1.d-zone.ca	162.219.54.2
+ns2.d-zone.ca	162.219.55.2
+
+Similar Domains
+senec-business.com | senec-ca.com | senec-caeco.com | senec-chantier.com | senec-classic.com | senec-cloud.com | senec-cloud.it | senec-cloud.net | senec-energie.com | senec-fachpartner.com | senec-gardens.com | senec-gardens.sk | senec-geodet.sk | senec-home.com | senec-ies.com | senec-ost.com | senec-store.com | senec-suedwest.com | senec-turkey.com | senec-turkiye.com |
+
+Registrar Data
+Registrant Contact Information:
+Name			Seneca College of Applied Arts & Technology (Ontario)
+Organization
+Address			1750 Finch Ave. East
+City			Toronto
+State / Province	ON
+Postal Code		M2J2X5
+Country			CA
+Phone			+1.4164915050
+Email			admin.dataservices@senecacollege.ca
+
+Administrative Contact Information:
+Name			Seneca College of Applied Arts & Technology (Ontario)
+Organization
+Address			1750 Finch Ave. East
+City			Toronto
+State / Province	ON
+Postal Code		M2J2X5
+Country			CA
+Phone			+1.4164915050
+Email			admin.dataservices@senecacollege.ca
+
+Technical Contact Information:
+Name			Seneca College of Applied Arts & Technology (Ontario)
+Organization
+Address			1750 Finch Ave. East
+City			Toronto
+State / Province	ON
+Postal Code		M2J2X5
+Country			CA
+Phone			+1.4164915050
+Email			admin.dataservices@senecacollege.ca
+
+Billing Contact Information:
+Name			Seneca College of Applied Arts & Technology (Ontario)
+Organization
+Address			1750 Finch Ave. East
+City			Toronto
+State / Province	ON
+Postal Code		M2J2X5
+Country			CA
+Phone			+1.4164915050
+Email			admin.dataservices@senecacollege.ca
+
+humber.ca
+Registrar Info
+Name		Internic.ca Inc.
+Whois Server	whois.ca.fury.ca
+Referral URL	www.internic.ca
+Status		clientTransferProhibited https://icann.org/epp#clientTransferProhibitedclientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+Important Dates
+Expires On	2026-08-01
+Registered On	2001-10-31
+Updated On	2021-10-03
+
+Name Servers
+ns3.humber.ca	192.75.71.23
+ns4.humber.ca	142.214.24.53
+
+Similar Domains
+humbe-live.de | humbe.co | humbe.com | humbe.download | humbe.info | humbe.mx | humbe.net | humbe.no | humbe.org | humbe4what.com | humbead.com | humbead.info | humbead.net | humbead.org | humbeam.com | humbear.com | humbearto.com | humbearto.info | humbeasts.com | humbeat.com |
+
+Registrar Data
+Registrant Contact Information:
+Name			Humber College (Ontario)
+Organization
+Address			205 Humber College blvd
+City			Toronto
+State / Province	ON
+Postal Code		M9W5L7
+Country			CA
+Phone			+1.4166756622
+Email			adel.nagaria@humber.ca
+
+Administrative Contact Information:
+Name			Humber College (Ontario)
+Organization
+Address			205 Humber College blvd
+City			Toronto
+State / Province	ON
+Postal Code		M9W5L7
+Country			CA
+Phone			+1.4166756622
+Email			adel.nagaria@humber.ca
+
+Technical Contact Information:
+Name			Humber College (Ontario)
+Organization
+Address			205 Humber College blvd
+City			Toronto
+State / Province	ON
+Postal Code		M9W5L7
+Country			CA
+Phone			+1.4166756622
+Email			adel.nagaria@humber.ca
+
+Billing Contact Information:
+Name			Humber College (Ontario)
+Organization
+Address			205 Humber College blvd
+City			Toronto
+State / Province	ON
+Postal Code		M9W5L7
+Country			CA
+Phone			+1.4166756622
+Email			adel.nagaria@humber.ca
+
+centennialcollege.ca
+Registrar Info
+Name		Internic.ca Inc.
+Whois Server	whois.ca.fury.ca
+Referral URL	www.internic.ca
+Status		clientTransferProhibited https://icann.org/epp#clientTransferProhibitedclientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+Important Dates
+Expires On	2022-07-12
+Registered On	2000-10-15
+Updated On	2021-08-26
+
+Name Servers
+ns1.centennialcollege.ca	199.212.26.10
+ns1.d-zone.ca			162.219.54.2
+ns2.centennialcollege.ca	199.212.26.11
+ns2.d-zone.ca			162.219.55.2
+
+Similar Domains
+cente-adcon.com.br | cente-alkimia.com | cente-bespeki.com.ua | cente-ciblee.fr | cente-de-messagerie.com | cente-klimat.ru | cente-power.com | cente-privee.com | cente-s.com | cente.be | cente.biz | cente.cl | cente.cn | cente.com | cente.com.cn | cente.com.es | cente.es | cente.info | cente.io | cente.it |
+
+Registrar Data
+Registrant Contact Information:
+Name			centennialcollege (TM), Centennial College
+Organization
+Address			941 Progress Avenue.
+City			Scarborough
+State / Province	ON
+Postal Code		M1K5E9
+Country			CA
+Phone			+1.4162895000
+Email			dnsadmin@centennialcollege.ca
+
+Administrative Contact Information:
+Name			centennialcollege (TM), Centennial College
+Organization
+Address			941 Progress Avenue.
+City			Scarborough
+State / Province	ON
+Postal Code		M1K5E9
+Country			CA
+Phone			+1.4162895000
+Email			dnsadmin@centennialcollege.ca
+
+Technical Contact Information:
+Name			centennialcollege (TM), Centennial College
+Organization
+Address			941 Progress Avenue.
+City			Scarborough
+State / Province	ON
+Postal Code		M1K5E9
+Country			CA
+Phone			+1.4162895000
+Email			dnsadmin@centennialcollege.ca
+
+Billing Contact Information:
+Name			centennialcollege (TM), Centennial College
+Organization
+Address			941 Progress Avenue.
+City			Scarborough
+State / Province	ON
+Postal Code		M1K5E9
+Country			CA
+Phone			+1.4162895000
+Email			dnsadmin@centennialcollege.ca
+
+lambtoncollege.ca
+Registrar Info
+Name		Vaxxine Computer Systems Inc.
+Whois Server	whois.ca.fury.ca
+Referral URL	http://www.vaxxine.com/domain/
+Status		serverDeleteProhibited https://icann.org/epp#serverDeleteProhibitedserverTransferProhibited https://icann.org/epp#serverTransferProhibitedserverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+
+Important Dates
+Expires On	2023-04-07
+Registered On	2003-04-07
+Updated On	2021-04-07
+
+Name Servers
+ns1.d-zone.ca	162.219.54.2
+ns2.d-zone.ca	162.219.55.2
+
+Similar Domains
+lambt.co.uk | lambt.com | lambt.org | lambta.co | lambtaco.com | lambtafurniture.com | lambtails.com | lambtales.com | lambtalk.com | lambtalk.net | lambtastic.com | lambtastic.com.au | lambtastic.net | lambtastic.org | lambtastic.us | lambtasticfarms.com | lambtastyeasyfun.eu | lambtattoo.com | lambtavern.com | lambtavernantiques.com |
+
+Registrar Data
+Registrant Contact Information:
+Name			Lambton College of Applied Arts & Technology
+Organization		Lambton College of Applied Arts & Technology
+Address			1457 London Road Road
+City			Sarnia
+State / Province	ON
+Postal Code		N7S6K4
+Country			CA
+Phone			+1.5195427751
+Email			terry@lambton.on.ca
+
+Administrative Contact Information:
+Name			Lambton College of Applied Arts & Technology
+Organization		Lambton College of Applied Arts & Technology
+Address			1457 London Road Road
+City			Sarnia
+State / Province	ON
+Postal Code		N7S6K4
+Country			CA
+Phone			+1.5195427751
+Email			terry@lambton.on.ca
+
+Technical Contact Information:
+Name			Lambton College of Applied Arts & Technology
+Organization		Lambton College of Applied Arts & Technology
+Address			1457 London Road Road
+City			Sarnia
+State / Province	ON
+Postal Code		N7S6K4
+Country			CA
+Phone			+1.5195427751
+Email			terry@lambton.on.ca
+
+Billing Contact Information:
+Name			Lambton College of Applied Arts & Technology
+Organization		Lambton College of Applied Arts & Technology
+Address			1457 London Road Road
+City			Sarnia
+State / Province	ON
+Postal Code		N7S6K4
+Country			CA
+Phone			+1.5195427751
+Email			terry@lambton.on.ca
